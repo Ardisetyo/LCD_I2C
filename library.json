@@ -1,0 +1,19 @@
+{
+  "name": "LCD_I2C",
+  "keywords": "LCD, liquidcrystal, I2C",
+  "description": "Libary For LCD_I2C",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/Ardisetyo/LCD_12C.git"
+  },
+  "version": "1.0.0",
+  "authors": {
+    "name": "Ardi Setyo"
+  },
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr"
+  ]
+}
